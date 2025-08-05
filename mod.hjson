@@ -1,0 +1,8 @@
+name: Chax0180's Texture Tweaks
+description: Tweaks various sprites, such as team icons, factories, turrets, etc.
+
+author: Chax0180
+minGameVersion: 136
+version: 1.0
+hidden: true
+hideBrowser: false
