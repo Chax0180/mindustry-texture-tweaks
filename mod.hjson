@@ -1,8 +1,8 @@
 name: Chax0180's Texture Tweaks
-description: Tweaks various sprites, such as team icons, factories, turrets, etc.
+description: Aims to completely redesign almost all of Mindustry's block textures, primarily on Serpulo.
 
 author: Chax0180
 minGameVersion: 136
-version: 1.0
+version: 2.18
 hidden: true
 hideBrowser: false
