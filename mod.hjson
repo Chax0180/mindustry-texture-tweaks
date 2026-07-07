@@ -1,5 +1,13 @@
-name: Chax0180's Texture Tweaks
-description: Aims to completely redesign almost all of Mindustry's block textures, primarily on Serpulo.
+displayName: Chax0180's Texture Tweaks
+name: mtt
+description: '''
+Aims to completely redesign almost all of Mindustry's block textures, primarily on Serpulo. Changes some sounds as well. Makes no change to gameplay, only visuals.
+[royal]Features:[]
+- Numerous block resprites
+- Expanded item descriptions
+- Slight alteration of phase fabric's overall design & name
+- New sounds for fires and Corvus lasers
+'''
 subtitle: b l o c k s
 
 author: Chax0180
